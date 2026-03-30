@@ -7,7 +7,7 @@ Um carrossel interativo inspirado no multiverso do Homem-Aranha, exibindo difere
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 
